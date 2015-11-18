@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ScalaSbtSettings">
     <option name="customVMPath" value="C:\bin\jre1.8.0_66" />
-    <option name="maximumHeapSize" value="4096" />
-    <option name="vmParameters" value="-XX:MaxPermSize=4096M" />
+    <option name="maximumHeapSize" value="2048" />
+    <option name="vmParameters" value="-XX:MaxPermSize=1024M" />
   </component>
 </project>

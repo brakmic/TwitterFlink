@@ -2,7 +2,6 @@
   <library name="Maven: com.typesafe.akka:akka-remote_2.10:2.3.7">
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/akka/akka-remote_2.10/2.3.7/akka-remote_2.10-2.3.7.jar!/" />
-      <root url="jar://C:/lib/sqljdbc_4.2/enu/sqljdbc42.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/akka/akka-remote_2.10/2.3.7/akka-remote_2.10-2.3.7-javadoc.jar!/" />

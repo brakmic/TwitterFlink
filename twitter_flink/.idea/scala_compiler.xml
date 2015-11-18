@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="explainTypeErrors" value="true" />
+    <parameters>
+      <parameter value="-feature" />
+    </parameters>
+    <profile name="Maven 1" modules="intro-to-flink-part-one" />
+  </component>
+</project>

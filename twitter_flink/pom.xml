@@ -22,12 +22,12 @@ under the License.
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.brakmic.flink.demos</groupId>
-	<artifactId>intro-to-flink-part-one</artifactId>
+	<artifactId>twitter_flink</artifactId>
 	<version>0.1</version>
 	<packaging>jar</packaging>
 
-	<name>Flink Quickstart Job</name>
-	<url>http://www.myorganization.org</url>
+	<name>Twitter Flink</name>
+	<url>http://blog.brakmic.com</url>
 
 	<repositories>
 		<repository>
